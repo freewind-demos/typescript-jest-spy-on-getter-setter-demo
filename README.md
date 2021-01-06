@@ -1,7 +1,7 @@
-TypeScript Jest Demo
+TypeScript Jest Spy on Getter Setter Demo
 ===========================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+Jest对getter/setter也支持spyOn
 
 ```
 npm install
